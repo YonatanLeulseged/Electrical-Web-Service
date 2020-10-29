@@ -1,4 +1,4 @@
-The goal of this project is to create a web service, which allows
+The goal of this project is to create a web service, which allows:
 
 1) getting, adding, updating, and removing the following resources: user, hourly electricity usage, electricity rate plans.
 2) getting electricity costs.
