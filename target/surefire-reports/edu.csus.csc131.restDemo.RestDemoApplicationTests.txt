@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.csus.csc131.restDemo.RestDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.532 s - in edu.csus.csc131.restDemo.RestDemoApplicationTests
