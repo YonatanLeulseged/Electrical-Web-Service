@@ -6,7 +6,7 @@ The goal of this project was to create a web service, which allows:
 The web service is implemented using JDK 11 with Spring Boot. JPA, hibernate, and H2 database should be used for data persistence. Tools related to the project are Maven for building and packaging, Spring Tool Suite as an IDE, and PostMan for testing web services.
 
 
-To begin, open the folder **src**
+To see main class files go through, **src/src/main/java/edu/csus/csc131/restDemo/**
 
 ### How to build this program
 In your command line or in Git Bash, type the command: ./mvnw clean package
